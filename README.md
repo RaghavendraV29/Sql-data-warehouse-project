@@ -6,12 +6,13 @@ This project desonstrates a comprehensive data warehousing and analytics solutio
 ---
 
 ##  Project Requirements
+
 ### Building the Data Warchouse (Data Engineering)
 
-## Objcctive
+#### Objcctive
 Develop a nodern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-### Specifications
+#### Specifications
 ﻿﻿**Data Sources**: Import data fron two source systems (ERP and CRM) provided as CSV files.
 ﻿﻿**Data Quality**: Cleanse and resolve data quality issues prior to analysis.
 ﻿﻿**Integration**: Combine both sources into a single, user-friendly data nodel designed for analytical queries.
@@ -20,9 +21,9 @@ Develop a nodern data warehouse using SQL Server to consolidate sales data, enab
 
   ---
   
-## BI: Analytics & Reporting (Data Analytics)
+### BI: Analytics & Reporting (Data Analytics)
 
-### Objective
+#### Objective
 Develop SQL-based analytics to deliver detailed insights into:
 ﻿﻿**Customer Behavior**
 ﻿﻿**Product Performance**
